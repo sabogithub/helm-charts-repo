@@ -10,10 +10,10 @@
 # NOT apply to ownership claim operations, which are processed immediately.
 #
 #repositoryID: The ID of the Artifact Hub repository where the packages will be published to (optional, but it enables verified publisher)
-repositoryID: 551edd60-a45b-46c4-9aa7-ffa897edde47
+repositoryID: fc36c1e8-c8ab-4c11-b2db-4ac5a4473fb2
 owners: # (optional, used to claim repository ownership)
-  - name: Kalyan Reddy Daida
-    email: stacksimplify@gmail.com
+  - name: Bonnema, Sandor
+    email: sandor_bonnema@hotmail.com
 ignore: # (optional, packages that should not be indexed by Artifact Hub)
   - name: package1
   - name: package2 # Exact match
